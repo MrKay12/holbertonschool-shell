@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 945321 | rev
+echo "Reverse" | rev
